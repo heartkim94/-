@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "heartkim94@gmail.com",
+    "enableMultiJS": true,
+    "longName": "hello world",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "hello world",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "636c3c15-af32-4cad-bf7a-9f2ae7facbb8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
